@@ -17,6 +17,6 @@ My characteristic as a software enginner is that I can solve a problem fast & I 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/lazarospsa/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/lazarospsa)
 
 
-### Personal pet project 🌎
-**[KeepNote](https://keepnote.eu/)**
+### Personal pet projects 🌎
+**[KeepNote](https://keepnote.eu/)** <br />
 **[KaneFilous](https://kanefilous.eu/)**
