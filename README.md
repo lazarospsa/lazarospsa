@@ -1,6 +1,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Lazaros Psarokostas](https://lazarospsarokostas.herokuapp.com)!
 
-I work as a software engineer full stack developer. I´m based in Thessaloniki, Greece.
+I work as a software engineer full stack developer. I´m based in Thessaloniki, Greece.<br />
+Just a spider, that building web!
 
 Since 2009 I've been living and breathing web development and creating modern and user friendly web applications. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through code. ✨😍
 
