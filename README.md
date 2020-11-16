@@ -3,6 +3,8 @@
 I work as a software engineer full stack developer. I´m based in Thessaloniki, Greece.<br />
 A spider building its web!
 
+At 2006-2007 I wrote my first line of code...
+
 Since 2009 I've been living and breathing web development and creating modern and user friendly web applications. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through code. ✨😍
 
 ### What I'm focusing on 👨‍💻
@@ -15,7 +17,15 @@ My characteristic as a software enginner is that I can solve a problem fast & I 
 
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/lazarospsa/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/lazarospsa)
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+
+[1.2]: http://i.imgur.com/wWzX9uB.png
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+
+[1]: https://twitter.com/lazarospsa
+[2]: https://www.linkedin.com/in/lazarospsa/
 
 
 ### Personal pet projects 🌎
