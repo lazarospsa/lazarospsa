@@ -30,4 +30,6 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 ### Personal pet projects 🌎
 **[KeepNote](https://keepnote.eu/)** <br />
-**[KaneFilous](https://kanefilous.eu/)**
+**[KaneFilous](https://kanefilous.eu/)** <br />
+
+[![lazarospsa github stats](https://github-readme-stats.vercel.app/api?username=lazarospsa)]
