@@ -11,7 +11,7 @@ Since 2009 I've been living and breathing web development and creating modern an
 
 Currently improving my Agile & DevOps skills: Scrum, k8s, I also reading nodejs to improve my js skills.<br />
 Golang is my favorite programming language.<br />
-PHP is my power of scripting languages.<br />
+PHP is my power of scripting language.<br />
 My characteristic as a software enginner is that I can solve a problem fast & I try to make as much as is possible more efficient the code.
 
 ## 🔧 Technologies & Tools
