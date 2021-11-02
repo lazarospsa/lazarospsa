@@ -42,10 +42,6 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [2]: https://www.linkedin.com/in/lazarospsa/
 
 
-### Personal pet projects 🌎
-**[KeepNote](https://keepnote.eu/)** <br />
-**[KaneFilous](https://kanefilous.eu/)** <br />
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/lazarospsa/lazarospsa">
