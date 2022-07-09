@@ -18,13 +18,7 @@ My characteristic as a software enginner is that I can solve a problem fast & I 
 
 ---
 
-Interested in:
-
-<div align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,php,c,cpp,raspberrypi,arduino,py,js,nodejs,express,jquery,selenium,symfony,laravel,wordpress,fastapi,flask,django,electron,html,css,bootstrap,vue,react,mysql,postgres,sqlite,mongo,redis,firebase,docker,vscode,idea,bash,cmake,linux,git,github,gitlab,heroku,netlify,discord,bots,ps,ableton,stackoverflow,twitter,linkedin,instagram,md&theme=dark&perline=11" />
-  </a>
-</div>
 
 
 ## &#x1f4c8; GitHub Stats
