@@ -22,7 +22,7 @@ Interested in:
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,php,c,cpp,raspberrypi,arduino,py,html,css,js,nodejs,vue,react,mysql,postgres,mongo,redis,docker,vscode,idea,bash,linux,git,github,gitlab,heroku,discord&theme=light&perline=11" />
+    <img src="https://skillicons.dev/icons?i=go,php,c,cpp,raspberrypi,arduino,py,js,nodejs,express,jquery,selenium,symfony,laravel,wordpress,fastapi,flask,django,electron,html,css,bootstrap,vue,react,mysql,postgres,sqlite,mongo,redis,firebase,docker,vscode,idea,bash,cmake,linux,git,github,gitlab,heroku,netlify,discord,bots,ps,ableton,stackoverflow,twitter,linkedin,instagram,md&theme=dark&perline=11" />
   </a>
 </div>
 
