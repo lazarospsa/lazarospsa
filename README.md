@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Lazaros Psarokostas!
+### Hello, I'm Lazaros Psarokostas!
 
 I work as a software engineer full stack developer. I´m based in Thessaloniki, Greece.<br />
 A spider building its web!
@@ -19,7 +19,7 @@ My characteristic as a software enginner is that I can solve a problem fast & I 
 ---
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,php,c,cpp,raspberrypi,arduino,py,js,nodejs,express,jquery,selenium,symfony,laravel,wordpress,fastapi,flask,django,electron,html,css,bootstrap,vue,react,mysql,postgres,sqlite,mongo,redis,firebase,docker,vscode,idea,bash,cmake,linux,git,github,gitlab,heroku,netlify,discord,bots,ps,ableton,stackoverflow,twitter,linkedin,instagram,md&theme=dark&perline=11" />
+    <img src="https://skillicons.dev/icons?i=go,php,c,cpp,raspberrypi,arduino,py,js,nodejs,express,jquery,selenium,symfony,laravel,wordpress,fastapi,flask,django,electron,html,css,bootstrap,vue,react,mysql,postgres,sqlite,mongo,redis,firebase,docker,vscode,idea,bash,cmake,linux,git,github,gitlab,heroku,netlify,discord,bots,ps,ableton,stackoverflow,twitter,linkedin,instagram,md" />
     </a>
 </div>
 
