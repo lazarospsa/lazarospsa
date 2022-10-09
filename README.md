@@ -27,5 +27,5 @@ My characteristic as a software enginner is that I can solve a problem fast & I 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarospsa&theme=dark&hide=tsql,html,makefile,c&langs_count=10&layout=compact)](https://github.com/lazarospsa/lazarospsa)
 
 <a href="https://github.com/lazarospsa/lazarospsa">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lazarospsa&theme=dark&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="lazarospsa's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lazarospsa&theme=dark&include_all_commits=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="lazarospsa's GitHub Stats" />
 </a>
