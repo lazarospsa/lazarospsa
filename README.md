@@ -1,11 +1,9 @@
 ### Hello, I'm Lazaros Psarokostas!
 
 I work as a software engineer full stack developer. I´m based in Thessaloniki, Greece.<br />
-A spider building its web!
-
 At 2006-2007 I wrote my first line of code...
 
-Since 2009 I've been living and breathing web development and creating modern and user friendly web applications. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through code. ✨😍
+Since 2009 I've been living and breathing web development and creating modern and user friendly web applications. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through code. ✨
 
 ### What I'm focusing on 👨‍💻
 
@@ -25,6 +23,7 @@ My characteristic as a software enginner is that I can solve a problem fast & I 
 
 
 ## &#x1f4c8; GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarospsa)](https://github.com/lazarospsa/lazarospsa)
 
 <a href="https://github.com/lazarospsa/lazarospsa">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lazarospsa&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="lazarospsa's GitHub Stats" />
