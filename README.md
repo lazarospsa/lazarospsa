@@ -9,7 +9,7 @@ Since 2009 I've been living and breathing web development and creating modern an
 
 Golang is my favorite programming language.<br />
 PHP is my power of scripting languages.<br />
-I love to use python & nodejs to make personal tools and bots for twitter, twitch, slack, discord etc.<br />
+I love to use Python & NodeJS to make personal tools and bots for twitter, twitch, slack, discord etc.<br />
 My characteristic as a software enginner is that I can solve a problem fast & I try to make as much as is possible more efficient the code.
 
 ## 🔧 My Stack - Technologies & Tools
