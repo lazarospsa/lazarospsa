@@ -12,6 +12,33 @@ PHP is my power of scripting languages.<br />
 I love to use Python & NodeJS to make personal tools and bots for twitter, twitch, slack, discord etc.<br />
 My characteristic as a software enginner is that I can solve a problem fast & I try to make as much as is possible more efficient the code.
 
+<p align="center">
+  <a href="https://github.com/lazarospsa">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lazarospsa&theme=solarized_dark" width="480">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/lazarospsa">
+    <img src="https://badges.strrl.dev/visits/lazarospsa/lazarospsa?logo=GitHub&style=plastic&a=0">
+  </a>
+  <a href="https://github.com/lazarospsa">
+    <img src="https://badges.strrl.dev/years/lazarospsa?logo=GitHub&style=plastic&a=0">
+  </a>
+  <a href="https://github.com/lazarospsa?tab=repositories">
+    <img src="https://badges.strrl.dev/repos/lazarospsa?logo=GitHub&style=plastic&a=0">
+  </a>
+  <a href="https://gist.github.com/lazarospsa">
+    <img src="https://badges.strrl.dev/gists/lazarospsa?logo=GitHub&style=plastic&a=0">
+  </a>
+  <a href="https://github.com/lazarospsa">
+    <img src="https://badges.strrl.dev/commits/monthly/lazarospsa?logo=GitHub&style=plastic&a=0">
+  </a>
+    <a href="https://github.com/lazarospsa">
+    <img src="https://badges.strrl.dev/commits/yearly/lazarospsa?logo=GitHub&style=plastic&a=0">
+  </a>
+</p>
+
 ## 🔧 My Stack - Technologies & Tools
 
 ---
