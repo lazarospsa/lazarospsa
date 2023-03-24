@@ -48,6 +48,6 @@ My characteristic as a software enginner is that I can solve a problem fast & I 
     </a>
 </div>
 
-<p align="center">
+<!-- <p align="center"> -->
 ![gopher dancing](./dancing-gopher.gif)
-</p>
+<!-- </p> -->
