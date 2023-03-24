@@ -46,8 +46,9 @@ My characteristic as a software enginner is that I can solve a problem fast & I 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,php,c,cpp,cs,dotnet,raspberrypi,arduino,py,js,nodejs,express,jquery,selenium,symfony,laravel,wordpress,fastapi,flask,django,electron,html,css,bootstrap,angular,vue,react,mysql,postgres,sqlite,mongodb,redis,firebase,docker,vscode,idea,bash,cmake,aws,linux,git,github,gitlab,heroku,netlify,discord,bots,ps,ableton,stackoverflow,twitter,linkedin,instagram,md" />
     </a>
-</div>
 
-<!-- <p align="center"> -->
+
+
 ![gopher dancing](./dancing-gopher.gif)
-<!-- </p> -->
+
+</div>
