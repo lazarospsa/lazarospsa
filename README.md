@@ -1,9 +1,10 @@
 ### Hello, I'm Lazaros Psarokostas!
 
-I work as a software engineer full stack developer. I´m based in Thessaloniki, Greece.<br />
-At 2006-2007 I wrote my first line of code...
+I work as a Senior Software Engineer, providing high-quality software solutions for various clients across different industries. I have more than ten years of experience in software engineering, and I have completed multiple Udemy certifications to enhance my skills and knowledge in PHP, Go, Python, NodeJS, MongoDB, Redis, and Angular.
 
-Since 2009 I've been living and breathing web development and creating modern and user friendly web applications. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through code. ✨
+I am passionate about software optimization and performance improvement, and I enjoy learning new technologies and frameworks. My next goal is to become a Software Architect and design scalable and efficient software systems. I value remote work and flexible schedules, and I avoid unnecessary phone calls and meetings. I work well with minimal supervision and I respect the autonomy and creativity of my team members.
+
+I own also the biggest clean programmers group (without graphic designers etc.) with name 'Έλληνες Προγραμματιστές' (which is "Greek Software Engineers") at Facebook with almost 12k members. ✨
 
 ### What I'm focusing on 👨‍💻
 
