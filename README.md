@@ -1,4 +1,4 @@
-### Hello, I'm Lazaros Psarokostas!
+### Hello, I'm Lazaros!
 
 I work as a Senior Software Engineer, providing high-quality software solutions for various clients across different industries. I have more than ten years of experience in software engineering, and I have completed multiple Udemy certifications to enhance my skills and knowledge in PHP, Go, Python, NodeJS, MongoDB, Redis, and Angular.
 
