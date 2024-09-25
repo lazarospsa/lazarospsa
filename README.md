@@ -48,7 +48,7 @@ My characteristic as a software enginner is that I can solve a problem fast & I 
     <img src="https://skillicons.dev/icons?i=go,php,c,cpp,cs,dotnet,raspberrypi,arduino,py,js,nodejs,express,jquery,selenium,symfony,laravel,wordpress,fastapi,flask,django,electron,html,css,bootstrap,angular,vue,react,mysql,postgres,sqlite,mongodb,redis,firebase,docker,vscode,idea,bash,cmake,aws,linux,git,github,gitlab,heroku,netlify,discord,bots,ps,ableton,stackoverflow,twitter,linkedin,instagram,md" />
     </a>
 
-Job: <img src="https://skillicons.dev/icons?i=php,js,jquery,laravel,wordpress,html,css,bootstrap,mysql,sqlite,vscode,bash,linux,git,github,stackoverflow,md" />
+Job: <br> <img src="https://skillicons.dev/icons?i=php,js,jquery,laravel,wordpress,html,css,bootstrap,mysql,sqlite,vscode,bash,linux,git,github,stackoverflow,md" />
 
 Professional Experience: <img src="https://skillicons.dev/icons?i=go,php,py,js,nodejs,express,jquery,selenium,symfony,laravel,wordpress,fastapi,flask,django,electron,html,css,bootstrap,angular,react,mysql,postgres,sqlite,mongodb,redis,firebase,docker,vscode,idea,bash,aws,linux,git,md" />
 
